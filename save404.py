@@ -9,6 +9,7 @@
 	按行对源文件进行加密
 	按行对指定文件进行解密
 	总之就是对各种文件进行按行处理
+https://github.com/LxKxC/PYinCTF
 '''
 import os
 import linecache
